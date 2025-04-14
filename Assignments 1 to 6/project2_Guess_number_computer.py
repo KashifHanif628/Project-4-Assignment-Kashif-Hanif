@@ -1,4 +1,4 @@
-# Project 3 Guess the number game python project (computer)
+# Project 2 Guess the number game python project (computer)
 
 import streamlit as st
 import random
